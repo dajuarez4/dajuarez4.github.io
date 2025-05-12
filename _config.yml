@@ -23,9 +23,9 @@ repository               : "dajuarez4/diego_armando_juarez_rosales.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile_picture.jpeg"
   name             : "Diego Juarez"
-  pronouns         : # example: "she/her"
+  pronouns         : "He/Him?His"# example: "she/her"
   bio              : "Welcome to my academic profile!"
   location         : "El Paso, TX"
   employer         : "Research Assistant"

@@ -24,13 +24,13 @@ repository               : "dajuarez4/diego_armando_juarez_rosales.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Diego Juarez"
+  pronouns         : # example: "she/her"
+  bio              : "Welcome to my academic profile!"
+  location         : "El Paso, TX"
+  employer         : "Research Assistant"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dajuarez4@miners.utep.edu"
 
   # Academic websites
   academia         : # URL

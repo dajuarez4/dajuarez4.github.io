@@ -59,9 +59,11 @@ Talks
 
 * **Effect of Substitutional and Antisite Defects on the Mechanical and Thermal Properties of Shape-Memory Alloy NiTi**  
    
-  **Location:** APS March Meeting, Anaheim Convention Center.
-  **Section:** Machine Learning, High Throughput, and Materials Discovery Session  
-  **Date:** March 17, 2025  
+  - **Location:** APS March Meeting, Anaheim Convention Center.
+  
+  - **Section:** Machine Learning, High Throughput, and Materials Discovery Session  
+  
+  - **Date:** March 17, 2025  
 
   
 Teaching

@@ -15,7 +15,7 @@ name                     : &name "Diego Juarez"
 description              : &description "Graduate Research Assistant in Computational Physics and Materials Science."
 url                      : "https://dajuarez4.github.io"  #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-baseurl: "/diego_armando_juarez_rosales.github.io"
+baseurl: ""
 repository               : "dajuarez4/diego_armando_juarez_rosales.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,10 +23,10 @@ repository               : "dajuarez4/diego_armando_juarez_rosales.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_picture.jpeg"
+  avatar           : "profile_picture.jpeg"
   name             : "Diego Juarez"
-  pronouns         : "He/Him?His"# example: "she/her"
-  bio              : "Welcome to my academic profile!"
+  pronouns         : "He/Him/His"# example: "she/her"
+  bio              : "Hello there, Welcome to my academic profile!"
   location         : "El Paso, TX"
   employer         : "Research Assistant"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/dajuarez4"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

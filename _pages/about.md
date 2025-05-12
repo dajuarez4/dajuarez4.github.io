@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 ## Diego Armando Juarez Rosales
-======
 
 I am a Graduate Research Assistant at the University of Texas at El Paso, focused on developing computational tools to study the mechanical and thermal properties of materials of interest. My research combines molecular dynamics simulations and advanced theoretical models to explore material behavior at the atomic scale.
 
@@ -19,7 +18,6 @@ In my current research on the **thermodynamics of antisites and vacancies in NiT
 - [UTEP-TEDEHAMO Framework](https://github.com/jamunozlab/UTEP-tedehamo)  
 - [UTEP-HELD Framework](https://github.com/jamunozlab/UTEP-HELD)  
 
-======
 
 ## My Current Research Interests are
 - Computational Materials Science  
@@ -28,7 +26,7 @@ In my current research on the **thermodynamics of antisites and vacancies in NiT
 - High-Entropy Alloys and Shape-Memory Materials  
 - Machine Learning for Materials Discovery  
 
-======
+<!--======-->
 
 <!--A data-driven personal website-->
 <!--======-->

@@ -68,8 +68,12 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Teaching Assistant**, *The University of Texas at El Paso*  
+  **August 2023 – July 2024**  
+  - Conducted two weekly lab sessions for Mechanics and Astronomy.
+  - In Mechanics: Taught principles of statics and dynamics, including Newton’s laws, energy and momentum conservation, and oscillations.
+  - Supervised eleven practical experiments, guiding students through applying theoretical concepts and providing introductory explanations.
+  - In Astronomy: Introduced Kepler’s Laws, orbital mechanics, exoplanets, celestial motion, and astronomical events through observation-based experiments and calculations.
+  
   
   
